@@ -1,6 +1,6 @@
-package com.geekbrains.vtb24.lesson9_homework;
+package net.foxtam.lesson9_homework;
 
-import com.geekbrains.vtb24.lesson9_homework.annotations.Column;
+import net.foxtam.lesson9_homework.annotations.Column;
 
 import java.lang.ref.Cleaner;
 import java.lang.reflect.Field;

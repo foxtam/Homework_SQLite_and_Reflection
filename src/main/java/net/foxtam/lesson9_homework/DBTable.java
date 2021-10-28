@@ -1,7 +1,7 @@
-package com.geekbrains.vtb24.lesson9_homework;
+package net.foxtam.lesson9_homework;
 
-import com.geekbrains.vtb24.lesson9_homework.annotations.Column;
-import com.geekbrains.vtb24.lesson9_homework.annotations.Table;
+import net.foxtam.lesson9_homework.annotations.Column;
+import net.foxtam.lesson9_homework.annotations.Table;
 
 import java.lang.reflect.Field;
 import java.util.Arrays;

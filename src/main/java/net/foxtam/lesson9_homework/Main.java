@@ -1,4 +1,4 @@
-package com.geekbrains.vtb24.lesson9_homework;
+package net.foxtam.lesson9_homework;
 
 import java.nio.file.Path;
 import java.sql.SQLException;
