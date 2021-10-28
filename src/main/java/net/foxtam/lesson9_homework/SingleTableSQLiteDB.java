@@ -34,6 +34,11 @@ public class SingleTableSQLiteDB<T> implements AutoCloseable {
         createTable(table);
     }
 
+    /**
+     * Just Cleaner test
+     * @param connection
+     * @return
+     */
     private static Runnable checkCloseConnection(Connection connection) {
         return () -> {
             try {
